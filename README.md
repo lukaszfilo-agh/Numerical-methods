@@ -1,4 +1,4 @@
-# Metody Numeryczne
+# Numerical methods
 
 # Wstęp
 Repozytorium zawiera wszystkie rozwiązania zadań z przedmiotu Metody Numeryczne wykonane podczas zimowego semestru w roku akademickim 2022/2023.
